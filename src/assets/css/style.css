@@ -153,6 +153,8 @@ button {background-color: #fff;cursor: pointer; border:none; }
     font-size: 1.1em;
     cursor: pointer;
     border-radius: 1em;
+    margin:auto;
+    margin-top: 30px;
 }
 
 .location {
