@@ -9,7 +9,7 @@
     <section>
         <div class="inner">
             <nav class="location">
-                <div style="color:#2690f3;" class="click-text">점심 굶는 다이어터 없재?</div>
+                <div style="color:#2690f3;" class="click-text">맛있게 먹으면 살안찜</div>
                 <div style="color:#ae3c3c;" class="fail-text">메뉴를 먼저 선택하세요</div>
                 <div style="color:#2690f3;" class="loading-text">돼지가 신내림을 받는중입니다...</div>
             </nav>     
@@ -43,7 +43,7 @@
                     <label for="cbbob" class="cb">밥</label>
                     <input type="checkbox" id="cbmyun" name="chk" value="면"/>
                     <label for="cbmyun" class="cb">면</label>       
-                    <input type="checkbox" id="cbj" name="chk" value="찌개"/>
+                    <input type="checkbox" id="cbj" name="chk" value="국물"/>
                     <label for="cbj" class="cb">국물</label>     
                     <input type="checkbox" id="cbb" name="chk" value="간편"/>
                     <label for="cbb" class="cb">간편</label>                                                                                              
